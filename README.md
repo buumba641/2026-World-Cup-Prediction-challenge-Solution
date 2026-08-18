@@ -3,7 +3,7 @@
 My solution to the **Zindi FIFA World Cup 2026 Goal Prediction Challenge**, where the objective was to predict both how many goals each team would score and how far they would progress in the 2026 FIFA World Cup.
 
 **Final Ranking:** **34th out of 369 participants**
-**Achievement:** 🥇 **Gold Rank — Top 10%**
+**Achievement:** 🥇 **Gold Medal — Top 10%**
 
 ## 🎯 The Challenge
 
@@ -67,7 +67,7 @@ My final submission achieved:
 
 public score 0.584492659
 private score 0.557112414
-This placed the solution in the **top 10% of the competition**  making it **Gold Rank**.
+This placed the solution in the **top 10% of the competition**.
 
 The result was achieved under the competition's closed-data rules, using only the provided historical World Cup data and features derived from it.
 
@@ -103,4 +103,4 @@ The dataset is licensed under **CC-BY-NC-SA 4.0**.
 
 **Author:** Buumba Chinjila
 **Competition:** Zindi — FIFA World Cup 2026 Goal Prediction Challenge
-**Result:** 🥇 Gold Rank — 34th / 369
+**Result:** 🥇 Rank 34th / 369
