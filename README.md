@@ -3,7 +3,7 @@
 My solution to the **Zindi FIFA World Cup 2026 Goal Prediction Challenge**, where the objective was to predict both how many goals each team would score and how far they would progress in the 2026 FIFA World Cup.
 
 **Final Ranking:** **34th out of 369 participants**
-**Achievement:** 🥇 **Gold Medal — Top 10%**
+**Achievement:** 🥇 **Gold Medal — Top 10% Solution**
 
 ## 🎯 The Challenge
 
@@ -66,6 +66,7 @@ The final leaderboard score combined both tasks into a single overall score.
 My final submission achieved:
 
 public score 0.584492659
+
 private score 0.557112414
 This placed the solution in the **top 10% of the competition**.
 
@@ -86,8 +87,6 @@ The result was achieved under the competition's closed-data rules, using only th
 ## 📓 Implementation
 
 The accompanying Jupyter Notebook contains the modelling pipeline, experimentation and final prediction workflow.
-
-The repository focuses on the **challenge, modelling approach and competition result**, while the notebook provides the implementation details.
 
 ## 📚 Data Source
 
